@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**puteriazli/puteriazli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Puteri Azli, an Informatics Engineering graduate (Cum Laude, GPA 3.57) with strong interest in building intelligent systems and data-driven applications.
 
-Here are some ideas to get you started:
+My main focus is on Machine Learning and Artificial Intelligence, where I design and build end-to-end solutions starting from data processing, model development, evaluation, and deployment into real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have experience in Data Science, Data Analysis, and Full-Stack Web Development, which allows me to transform machine learning models into usable web-based systems.
+
+🔎 My work includes projects such as:
+- House Price Prediction System
+- Tomato Plant Disease Detection (Computer Vision) System
+- Air Quality Data Analysis
+- App Review Time-Series Analysis
+- User Sentiment Analysis using Transfer Learning
+- Data Visualization and Dashboard Development
+
+💻 Tech Stack:
+Python • Machine Learning • Deep Learning • Data Analysis • SQL • Data Visualization • Full-stack Web Development
+
+I enjoy solving real-world problems using data and building systems that combine machine learning models with practical applications.
+
+📫 Open to opportunities in:
+Machine Learning Engineer | AI Engineer | Data Scientist | Data Analyst | Full-Stack Web Developer
