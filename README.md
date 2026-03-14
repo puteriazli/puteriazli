@@ -7,12 +7,16 @@ My main focus is on Machine Learning and Artificial Intelligence, where I design
 I also have experience in Data Science, Data Analysis, and Full-Stack Web Development, which allows me to transform machine learning models into usable web-based systems.
 
 🔎 My work includes projects such as:
-- House Price Prediction System
-- Tomato Plant Disease Detection (Computer Vision) System
-- Air Quality Data Analysis
-- App Review Time-Series Analysis
 - User Sentiment Analysis using Transfer Learning
+- Tomato Plant Disease Detection (Computer Vision) System
+- House Price Prediction System
+- App Review Time-Series Analysis
+- Air Quality Data Analysis
+- Breast Cancer Classifications
+- Music Genre Recognation
 - Data Visualization and Dashboard Development
+- Article Website Publication with Authorization
+- SMK N 13 Sarolangun Profile Website
 
 💻 Tech Stack:
 Python • Machine Learning • Deep Learning • Data Analysis • SQL • Data Visualization • Full-stack Web Development
