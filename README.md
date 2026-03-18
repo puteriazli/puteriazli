@@ -19,7 +19,7 @@ I also have experience in Data Science, Data Analysis, and Full-Stack Web Develo
 - SMK N 13 Sarolangun Profile Website
 
 💻 Tech Stack:
-Python • Machine Learning • Deep Learning • Data Analysis • SQL • Data Visualization • Full-stack Web Development
+Python • Machine Learning • Data Science • Deep Learning • Data Analysis • SQL • Data Visualization • Full-stack Web Development
 
 I enjoy solving real-world problems using data and building systems that combine machine learning models with practical applications.
 
