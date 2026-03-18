@@ -8,7 +8,7 @@ I also have experience in Data Science, Data Analysis, and Full-Stack Web Develo
 
 🔎 My work includes projects such as:
 - User Sentiment Analysis using Transfer Learning
-- Tomato Plant Disease Detection (Computer Vision) System
+- Tomato Plant Disease Detection System (Computer Vision)
 - House Price Prediction System
 - App Review Time-Series Analysis
 - Air Quality Data Analysis
